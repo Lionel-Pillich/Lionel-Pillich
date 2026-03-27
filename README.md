@@ -27,7 +27,7 @@ const founder: Builder = {
     "Founder @ ContextMAP",
   ],
   building:    [
-    "ContextMAP — Private MCP-Server + Smart LLM-Interface fuer Unternehmen",
+    "ContextMAP — Private MCP-Server + Smart LLM-Interface für Unternehmen",
     "Admin Dashboard — Kontext-Zugriffssteuerung pro Mitarbeiter",
     "Context-Node-System — Intelligente Vernetzung von Unternehmenswissen",
   ],
