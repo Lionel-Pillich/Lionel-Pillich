@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1B4F82,100:E8762A&height=220&section=header&text=Lionel%20Pillich&fontSize=58&fontColor=E8762A&fontAlignY=40&desc=Building%20ContextMAP%20%E2%80%A2%20MCP%20%E2%80%A2%20Enterprise%20AI&descAlignY=62&descColor=a0b4c8&animation=fadeIn&fontAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E8762A&center=true&vCenter=true&width=750&lines=Founder+%40+ContextMAP;Private+MCP+Server+%2B+Enterprise+Context+Layer;Smart+Interface+f%C3%BCr+LLM-Workflows;Admin+Dashboard+%E2%80%94+Context+Access+Control;The+missing+link+between+your+data+and+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E8762A&center=true&vCenter=true&width=750&lines=Founder+%40+ContextMAP;Private+MCP+Server+%2B+Enterprise+Context+Layer;Smart+Interface+for+LLM-Workflows;Admin+Dashboard+%E2%80%94+Context+Access+Control;The+missing+link+between+your+data+and+AI" alt="Typing SVG" />
 </a>
 
 <br/><br/>
