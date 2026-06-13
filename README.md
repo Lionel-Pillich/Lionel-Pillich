@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lionel_Pillich-1B4F82?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lionelpillich)
-[![Website](https://img.shields.io/badge/lionelpillich.de-Personal-1B4F82?style=flat-square&logo=googlechrome&logoColor=white)](https://lionelpillich.de)
+[![Website](https://img.shields.io/badge/lionelpillich.eu-Personal-1B4F82?style=flat-square&logo=googlechrome&logoColor=white)](https://lionelpillich.eu)
 [![Startup](https://img.shields.io/badge/contextmap.eu-Startup-E8762A?style=flat-square&logo=rocket&logoColor=white)](https://contextmap.eu)
 [![GitHub](https://img.shields.io/badge/GitHub-Lionel--Pillich-1B4F82?style=flat-square&logo=github&logoColor=white)](https://github.com/Lionel-Pillich)
 [![Mail](https://img.shields.io/badge/lionel%40pillich.eu-Email-E8762A?style=flat-square&logo=gmail&logoColor=white)](mailto:lionel@pillich.eu)
